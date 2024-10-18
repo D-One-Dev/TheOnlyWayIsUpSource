@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a54d3edffec009c4eb315d2be42c2cff, type: 3}
+  m_Name: AK-2077
+  m_EditorClassIdentifier: 
+  gunName: AK-2077
+  isAutomatic: 1
+  projectile: {fileID: 7766390362285446527, guid: e8f17b27651816942bc710b03895d87f, type: 3}
+  recoilTime: 0.1
+  isDefaultGun: 0
+  ammoAmount: 50
+  shotBulletsAmount: 1
+  icon: {fileID: 21300000, guid: 555999a19e031754586e66a9f6c13a0a, type: 3}

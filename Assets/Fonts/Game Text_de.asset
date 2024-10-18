@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Game Text_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 6ed41de6efc850248817e9dc4455ac6a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 555025174528
+    m_Localized: SPIELEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741013196800
+    m_Localized: "GESCH\xC4FT"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956436844544
+    m_Localized: EINSTELLUNGEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1194371321856
+    m_Localized: AUSFAHRT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1459635884032
+    m_Localized: "ZUR\xDCCK"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740155129856
+    m_Localized: SEHEN SIE SICH EINE KURZE WERBUNG AN UND ERHALTEN SIE 100 GOLD!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1938608623616
+    m_Localized: "ZUR\xDCCK"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1956409249792
+    m_Localized: SCHAU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2227231264768
+    m_Localized: EINSTELLUNGEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2327500296192
+    m_Localized: "GER\xC4USCHE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2343363153920
+    m_Localized: MUSIK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2375105646592
+    m_Localized: VISUELLE EFFEKTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678869725184
+    m_Localized: ERSTELLT VON D_One IM 2023
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16742224236544
+    m_Localized: The Only Way Is Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20952135241728
+    m_Localized: EINSTELLUNGEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21002949234688
+    m_Localized: "GER\xC4USCHE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21018174558208
+    m_Localized: MUSIK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21035379593216
+    m_Localized: VISUELLE EFFEKTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21180024360960
+    m_Localized: ERSTELLT VON D_One IM 2023
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21292360404992
+    m_Localized: DU BIST TOT!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21337373675520
+    m_Localized: WIEDERGEBURT (WERBUNG)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21383016091648
+    m_Localized: FANG NOCHMAL AN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21413487710208
+    m_Localized: "MEN\xDC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341670241873920
+    m_Localized: EINSTELLUNGEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981840062427136
+    m_Localized: "MEN\xDC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981880482934784
+    m_Localized: FANG NOCHMAL AN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 982149908246528
+    m_Localized: "HERZLICHEN GL\xDCCKWUNSCH, SIE HABEN DIE SPITZE DES TURMS GEMACHT!\r\n\r\nWEITERE
+      LEVELS KOMMEN BALD :)"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

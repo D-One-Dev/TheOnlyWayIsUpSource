@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Game Text_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 6ed41de6efc850248817e9dc4455ac6a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 555025174528
+    m_Localized: JUGAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741013196800
+    m_Localized: TIENDA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956436844544
+    m_Localized: AJUSTES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1194371321856
+    m_Localized: SALIDA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1459635884032
+    m_Localized: "ATR\xC1S"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740155129856
+    m_Localized: "\xA1MIRA UNA PUBLICIDAD CORTA Y CONSIGUE 100 DE ORO!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1938608623616
+    m_Localized: "ATR\xC1S"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1956409249792
+    m_Localized: VER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2227231264768
+    m_Localized: AJUSTES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2327500296192
+    m_Localized: SONIDOS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2343363153920
+    m_Localized: "M\xDASICA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2375105646592
+    m_Localized: EFECTOS VISUALES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678869725184
+    m_Localized: CREADO POR D_One EN 2023
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16742224236544
+    m_Localized: The Only Way Is Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20952135241728
+    m_Localized: AJUSTES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21002949234688
+    m_Localized: SONIDOS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21018174558208
+    m_Localized: "M\xDASICA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21035379593216
+    m_Localized: EFECTOS VISUALES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21180024360960
+    m_Localized: CREADO POR D_One EN 2023
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21292360404992
+    m_Localized: "\xA1EST\xC1S MUERTO!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21337373675520
+    m_Localized: REANIMAR (PUBLICIDAD)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21383016091648
+    m_Localized: EMPEZAR DE NUEVO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21413487710208
+    m_Localized: "MEN\xDA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341670241873920
+    m_Localized: AJUSTES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981840062427136
+    m_Localized: "MEN\xDA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981880482934784
+    m_Localized: EMPEZAR DE NUEVO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 982149908246528
+    m_Localized: "\xA1FELICIDADES, HAS LLEGADO A LA CIMA DE LA TORRE!\r\n\r\nM\xC1S
+      NIVELES PR\xD3XIMAMENTE :)"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

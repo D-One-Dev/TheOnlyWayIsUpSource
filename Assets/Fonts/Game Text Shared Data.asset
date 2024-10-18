@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Game Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Game Text
+  m_TableCollectionNameGuidString: 6ed41de6efc850248817e9dc4455ac6a
+  m_Entries:
+  - m_Id: 555025174528
+    m_Key: Menu/Canvas/Safe Area/Buttons/Play Button/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741013196800
+    m_Key: Menu/Canvas/Safe Area/Buttons/Shop Button/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956436844544
+    m_Key: Menu/Canvas/Safe Area/Buttons/Settings Button/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1194371321856
+    m_Key: Menu/Canvas/Safe Area/Buttons/Exit Button/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1459635884032
+    m_Key: Menu/Canvas/Shop/Safe Area/Back Button/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1740155129856
+    m_Key: Menu/Canvas/Shop/Ad Screen/Safe Area/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1938608623616
+    m_Key: Menu/Canvas/Shop/Ad Screen/Safe Area/Buttons/Back Button/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1956409249792
+    m_Key: Menu/Canvas/Shop/Ad Screen/Safe Area/Buttons/Watch Button/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2227231264768
+    m_Key: Menu/Canvas/Settings/Safe Area/Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2327500296192
+    m_Key: Menu/Canvas/Settings/Safe Area/Content/Sounds Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2343363153920
+    m_Key: Menu/Canvas/Settings/Safe Area/Content/Music Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2375105646592
+    m_Key: Menu/Canvas/Settings/Safe Area/Content/Post Processing label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678869725184
+    m_Key: Menu/Canvas/Settings/Info/Safe Area/Info Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16742224236544
+    m_Key: Game name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20952135241728
+    m_Key: Level_1/Canvas/Settings/Safe Area/Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21002949234688
+    m_Key: Level_1/Canvas/Settings/Safe Area/Content/Sounds Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21018174558208
+    m_Key: Level_1/Canvas/Settings/Safe Area/Content/Music Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21035379593216
+    m_Key: Level_1/Canvas/Settings/Safe Area/Content/Post Processing label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21180024360960
+    m_Key: Level_1/Canvas/Settings/Info/Safe Area/Info Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21292360404992
+    m_Key: Level_1/Canvas/Death Screen/Safe Area/Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21337373675520
+    m_Key: Level_1/Canvas/Death Screen/Safe Area/Revive Button/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21383016091648
+    m_Key: Level_1/Canvas/Death Screen/Safe Area/Restart Button/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21413487710208
+    m_Key: Level_1/Canvas/Death Screen/Safe Area/Menu Button/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341670241873920
+    m_Key: Level_1/Canvas/Settings/Safe Area/Label 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981840062427136
+    m_Key: Ending/Canvas/Info/Safe Area/Menu Button/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981880482934784
+    m_Key: Ending/Canvas/Info/Safe Area/Restart Button/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 982149908246528
+    m_Key: Ending/Canvas/Info/Safe Area/Info Label
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8910838458712064025
+  references:
+    version: 2
+    RefIds:
+    - rid: 8910838458712064025
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1700248254868

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a54d3edffec009c4eb315d2be42c2cff, type: 3}
+  m_Name: Rubber
+  m_EditorClassIdentifier: 
+  gunName: Rubber Gun
+  isAutomatic: 0
+  projectile: {fileID: 7766390362285446527, guid: edea6ca16e18c5b42b1570356d52db28, type: 3}
+  recoilTime: 0
+  isDefaultGun: 0
+  ammoAmount: 15
+  shotBulletsAmount: 1
+  icon: {fileID: 21300000, guid: f4075547511360f4bac95ccb795272dc, type: 3}
